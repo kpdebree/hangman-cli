@@ -1,0 +1,23 @@
+{
+  "name": "kpdebree",
+  "version": "1.0.0",
+  "description": "Hangman Game for Project 12",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "blerb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpdebree/hangman-cli.git"
+  },
+  "author": "kpdebree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpdebree/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/kpdebree/hangman-cli#readme"
+}
